@@ -1,0 +1,76 @@
+*{
+    font-family: 'Poppins',sans-serif;
+}
+.side h2 {
+    position: absolute;
+    width: 808px;
+    height: 318px;
+    left: 56px; 
+    top: 88px;
+    font-size: 64px;
+    line-height: 43px;
+    color: white;
+}
+.header img {
+    position: absolute;
+    width: 100px;
+height: 100px;
+left: 1325px;
+top: 12px;
+}
+.header h1 { 
+    position: relative;
+    font-size: 64px;
+    line-height: 83px;
+}
+.header p {
+    position: relative;
+    width: 388px;
+    height: 110px;
+    font-size: 17px;
+    line-height: 22px;    
+    color: #424242;
+    
+}
+.form-floating {
+    position: relative;
+    display: block;
+    width: 417px;
+    height: 80px;
+    background: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.form-check {
+    background: #FFFFFF;
+    border: 1px;
+    border-radius: 2px;
+}
+.form-check a {
+    position: absolute;
+    width: 163px;
+    height: 35px;
+    left: 1246px;
+    font-size: 17px;
+    line-height: 22px;
+    color: #424242;    
+}
+.btn {
+    width: 110px;
+    height: 36px;
+    left: 960px;
+    top: 661px;
+    border-radius: 5px;
+}
+footer p {
+    position: absolute;
+    width: 327px;
+    height: 63px;
+    left: 960px;
+    top: 914px;
+}
+footer span { 
+    position:   absolute;      
+    width: 327px;
+    height: 63px;
+}

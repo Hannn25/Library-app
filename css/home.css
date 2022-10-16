@@ -1,0 +1,16 @@
+* {
+    font-family: 'Poppins',sans-serif;
+}
+#searchbar {
+    box-sizing: border-box;
+
+position: absolute;
+width: 406px;
+height: 43px;
+left: 723px;
+top: 20px;
+
+background: #FFFFFF;
+border: 1px solid #CACACA;
+border-radius: 20px;
+}
